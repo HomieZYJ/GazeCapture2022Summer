@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">视点采集实验</string>
+    <string name="start">欢迎您参与实验,请仔细阅读下面的实验说明</string>
+    <string name="message">屏幕上会出现红点，红点会从大变小，并且在中间出现一个数字，请将所有数字加和，并在最后将求得的和填入方框之中。具体的手机摆放方向和姿势请按照后续指示完成。</string>
+    <string name="button_click">已知晓实验操作流程，开始实验</string>
+    <string name="button_click2">已调整好姿势，开始采集</string>
+    <string name="sum_note">请输入所求和</string>
+    <string name="sum_button">确认提交</string>
+    <string name="thanks">谢谢参与</string>
+    <string name="num_1">1</string>
+    <string name="num_2">2</string>
+    <string name="position1_gesture1">请将手机摄像头置于上方，测试人将手机拿在手上，并随意坐着</string>
+    <string name="position1_gesture2">请将手机摄像头置于上方，测试人将手机放在桌上，并随意坐着</string>
+    <string name="position1_gesture3">请将手机摄像头置于上方，测试人将手机拿在手上，并躺着</string>
+    <string name="position2_gesture1">请将手机摄像头置于左侧，测试人将手机拿在手上，并随意坐着</string>
+    <string name="position2_gesture2">请将手机摄像头置于左测，测试人将手机放在桌上，并随意坐着</string>
+    <string name="position2_gesture3">请将手机摄像头置于左侧，测试人将手机拿在手上，并躺着</string>
+    <string name="position3_gesture1">请将手机摄像头置于下方，测试人将手机拿在手上，并随意坐着</string>
+    <string name="position3_gesture2">请将手机摄像头置于下方，测试人将手机放在桌上，并随意坐着</string>
+    <string name="position3_gesture3">请将手机摄像头置于下方，测试人将手机拿在手上，并躺着</string>
+    <string name="position4_gesture1">请将手机摄像头置于右侧，测试人将手机拿在手上，并随意坐着</string>
+    <string name="position4_gesture2">请将手机摄像头置于右侧，测试人将手机放在桌上，并随意坐着</string>
+    <string name="position4_gesture3">请将手机摄像头置于右侧，测试人将手机拿在手上，并躺着</string>
+    <string name="title_activity_note21">NoteActivity2_1</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

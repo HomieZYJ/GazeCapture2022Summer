@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2265" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_camera_test.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_main2.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_note11.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_note1_1.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_note1_2.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_note1_3.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_note2_1.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_note2_2.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_note2_3.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_note33.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_note3_1.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_note3_2.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_note3_3.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_note4_1.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_note4_2.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_note4_3.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_sum.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_sum1_1.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_sum1_2.xml" value="0.2390625" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_sum1_3.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_sum2_1.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_sum2_2.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_sum2_3.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_view_point1_1.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_view_point1_2.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_view_point1_3.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_view_point2_1.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_view_point2_2.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_view_point2_3.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_view_point3_1.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_view_point3_2.xml" value="0.2390625" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_view_point4_2.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ASUS/Desktop/CameraXDemo/app/src/main/res/layout/activity_view_ponit4_1.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
